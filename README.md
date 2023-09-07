@@ -2,7 +2,8 @@
 <h3 align="center">a frontend developer.</h3>
 <!-- ### Hi there 👋, I'm Artem Sibisov, a frontend developer.-->
 <!--Live long and prosper
-https://github.com/Auqpiro
+https://github.com/Auqpiro  -скилы
+https://github.com/evgeniyworkbel  -скилы
 https://github.com/angemariya/angemariya/blob/main/README.md - профиль просмотр счетчик
 -->
 
