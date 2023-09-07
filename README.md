@@ -2,8 +2,7 @@
 
 ### Contacts
 
-- Telegram: [artem_sibisov](https://t.me/artem_sibisov)
-- Email: [artem-sibisov@mail.ru](mailto:artem-sibisov@mail.ru)
+- Email: [777artsib@gmail.com](mailto:777artsib@gmail.com)
 
 
 
