@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Artem Sibisov, a frontend developer.
 
-### Contacts
 
-- Email: [777artsib@gmail.com](mailto:777artsib@gmail.com)
+- 🌱 I’m currently learning React, JavaScript, TypeScript.
+- 📫 How to reach me: [777artsib@gmail.com](mailto:777artsib@gmail.com)
 
 
 
