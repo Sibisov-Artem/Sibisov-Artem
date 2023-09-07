@@ -5,6 +5,11 @@
 https://github.com/Auqpiro  -скилы
 https://github.com/evgeniyworkbel  -скилы
 https://github.com/angemariya/angemariya/blob/main/README.md - профиль просмотр счетчик
+https://github.com/VladVlad1238 - профиль просмотр счетчик и немного описания
+
+
+
+Hey all 👋 I'm Polina, and I create all kinds of frontend magic.  - слева в описании у Полины, наподобие
 -->
 
 
