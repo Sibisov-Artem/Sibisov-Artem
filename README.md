@@ -104,8 +104,8 @@ https://github.com/orgs/doka-guide/followers  - продолжить ознак�
 <div align="center">
 
 <a href="mailto:777artsib@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artem-sibisov/)
-[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/artem_sibisov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artem-sibisov/){:target="_blank" rel="noopener"}
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/artem_sibisov){:target="_blank" rel="noopener"}
 
 </div>
 <br>
