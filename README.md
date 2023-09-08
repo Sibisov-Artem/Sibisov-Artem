@@ -93,10 +93,13 @@ https://github.com/orgs/doka-guide/followers  - продолжить ознак�
 
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
-https://icons8.com - ранее брал здесь
+
+<p align="left">
+  https://icons8.com - ранее брал здесь
  <a href="https://instagram.com/artem-sibisov" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="artem-sibisov-instagram" />
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="artem-sibisov-instagram" width="40" height="40" />
   </a> 
+</p>
 
 <div align="center">
 
