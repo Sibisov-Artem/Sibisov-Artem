@@ -85,9 +85,22 @@ https://github.com/orgs/doka-guide/followers  - продолжить ознак�
 &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;-->
-
-
-
+<span><img src="https://img.shields.io/badge/Webpack-282C34?style=flat&logo=webpack" alt="Webpack logo" title="Webpack" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Figma-282C34?style=flat&logo=figma" alt="Figma logo" title="Figma" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/NPM-282C34?style=flat&logo=npm" alt="NPM logo" title="NPM" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Jest-282C34?style=flat&logo=jest" alt="Jest logo" title="Jest" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Github-282C34?style=flat&logo=github" alt="Github logo" title="Github" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Ubuntu-282C34?style=flat&logo=ubuntu" alt="Ubuntu logo" title="Ubuntu" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Nginx-282C34?style=flat&logo=Nginx" alt="Nginx logo" title="Nginx" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Postman-282C34?style=flat&logo=postman" alt="Postman logo" title="Postman" height="25" /></span>
+&nbsp;
 
 <br>
 
