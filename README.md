@@ -18,6 +18,7 @@ https://github.com/VladVlad1238 - профиль просмотр счетчик
 https://github.com/FullStackDev890306  - крутой дядька с Австралии 
 https://github.com/jackbereson#      - с Британии
 https://github.com/codemaster05330   - тоже гуд
+https://github.com/dmatsanganis - молодой паренек с хорошим оформлением
 
 
 
@@ -102,6 +103,9 @@ https://github.com/orgs/doka-guide/followers  - продолжить ознак�
   <!--<a href="https://www.facebook.com/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="artem-sibisov-facebook" />
   </a> -->
+    <a href="mailto:777artsib@gmail.com" target="top">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="artem-sibisov-email" />
+  </a>
   <a href="https://www.linkedin.com/in/artem-sibisov" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="artem-sibisov-linkedin" />
   </a>
@@ -111,9 +115,7 @@ https://github.com/orgs/doka-guide/followers  - продолжить ознак�
   <!-- <a href="https://instagram.com/artem-sibisov" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="artem-sibisov-instagram" />
   </a>  -->
-  <a href="mailto:777artsib@gmail.com" target="top">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="artem-sibisov-email" />
-  </a>
+
 </div>
 
 <br>
