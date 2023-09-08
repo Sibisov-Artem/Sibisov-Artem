@@ -106,7 +106,7 @@ https://github.com/orgs/doka-guide/followers  - продолжить ознак�
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="artem-sibisov-linkedin" />
   </a>
   <a href="https://t.me/artem_sibisov" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white" alt="artem-sibisov-telegram" />
+    <img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white" alt="artem-sibisov-telegram" />
   </a>
   <!-- <a href="https://instagram.com/artem-sibisov" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="artem-sibisov-instagram" />
