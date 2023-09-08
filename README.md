@@ -1,5 +1,5 @@
-<!--<h2 align="center">Всем привет 👋, Я Артем Сибисов  </h2>-->
-<!--<h3 align="center">и я frontend developer.</h3>-->
+<h2 align="center">Всем привет 👋, Я Артем Сибисов</h2>
+<h3 align="center">и я frontend-разработчик.</h3>
 
 <!--<h2 align="center">Hi there 👋, I'm Artem Sibisov </h2>-->
 <!--<h3 align="center">a frontend developer.</h3>-->
