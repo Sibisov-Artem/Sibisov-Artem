@@ -5,8 +5,6 @@
 <!--<h3 align="center">a frontend developer.</h3>-->
 
 
-<!-- ### Hi there 👋, I'm Artem Sibisov, a frontend developer.-->
-
 <!--Live long and prosper
 Успехов, мира и процветания!
 
@@ -94,42 +92,27 @@ https://github.com/orgs/doka-guide/followers  - продолжить ознак�
 
 
 
-
 <br>
+
 <h2 align="center">👽 Where to find me 👽</h2>
-
-
 <br>
-<!-- https://icons8.com -->
+<!-- https://icons8.com - ранее брал здесь
+<!-- <a href="https://instagram.com/artem-sibisov" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="artem-sibisov-instagram" />
+  </a>  -->
+-->
+
 <div align="center">
 
 <a href="mailto:777artsib@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artem-sibisov/)
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/artem_sibisov)
 
-
-
-
-  
-<!--     
-    
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artem-sibisov/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dmatsanganis/)
-<!--   <a href="https://www.linkedin.com/in/artem-sibisov" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="artem-sibisov-linkedin" />
-  </a> -->
-  <a href="https://t.me/artem_sibisov" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white" alt="artem-sibisov-telegram" />
-  </a>
-  <!-- <a href="https://instagram.com/artem-sibisov" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="artem-sibisov-instagram" />
-  </a>  --> -->
-
 </div>
 
 <br>
 
-<p>Всем успехов, мира и процветания!</p>
+<p strong>Всем успехов, мира и процветания!</p>
 
 
 
