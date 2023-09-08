@@ -38,7 +38,7 @@ https://github.com/orgs/doka-guide/followers  - продолжить ознак�
 -->
 
 
-- 🚀 Закончил обучение в Яндекс.Практикум на направлении Web-разработчик
+- 🚀 Закончил обучение в Яндекс.Практикум по направлению Web-разработчик
 - 🌱 В настоящее время я углубляюсь в изучение React, JavaScript, TypeScript
 - 💻 Меня интересует всё, что связано с веб-разработкой
 - 📈 Хочу развиваться, практиковаться, работать на результат и писать чистый читабельный код
@@ -49,7 +49,7 @@ https://github.com/orgs/doka-guide/followers  - продолжить ознак�
   <h2 align="center">🛠 Technologies and Tools 🛠</h2>
   <br>
   <!-- https://simpleicons.org/ -->
- <!--  <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+ <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
@@ -88,7 +88,9 @@ https://github.com/orgs/doka-guide/followers  - продолжить ознак�
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
-&nbsp; -->
+&nbsp;
+
+
 
 
 
@@ -101,16 +103,16 @@ https://github.com/orgs/doka-guide/followers  - продолжить ознак�
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="artem-sibisov-facebook" />
   </a> -->
   <a href="https://www.linkedin.com/in/artem-sibisov" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="artem-sibisov-linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="artem-sibisov-linkedin" />
   </a>
   <a href="https://t.me/artem_sibisov" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/telegram-app.png" alt="artem-sibisov-telegram" />
+    <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white" alt="artem-sibisov-telegram" />
   </a>
   <!-- <a href="https://instagram.com/artem-sibisov" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="artem-sibisov-instagram" />
   </a>  -->
   <a href="mailto:777artsib@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="artem-sibisov-email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="artem-sibisov-email" />
   </a>
 </div>
 
