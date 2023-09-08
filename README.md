@@ -1,9 +1,15 @@
-<h2 align="center">Hi there 👋, I'm Artem Sibisov </h1>
-<h3 align="center">a frontend developer.</h3>
+<!--<h2 align="center">Всем привет 👋, Я Артем Сибисов  </h2>-->
+<!--<h3 align="center">и я frontend developer.</h3>-->
+
+<!--<h2 align="center">Hi there 👋, I'm Artem Sibisov </h2>-->
+<!--<h3 align="center">a frontend developer.</h3>-->
 
 
 <!-- ### Hi there 👋, I'm Artem Sibisov, a frontend developer.-->
+
 <!--Live long and prosper
+Успехов, мира и процветания!
+
 https://github.com/Auqpiro  -скилы
 https://github.com/evgeniyworkbel  -скилы
 https://github.com/angemariya/angemariya/blob/main/README.md - профиль просмотр счетчик
@@ -24,6 +30,7 @@ Hey all 👋 I'm Artem, and I create all kinds of frontend magic.  - слева 
 📈Development, practice and work for the result.
 👨‍💻 I want to create high-quality websites that help people solve their tasks.
 ⚡ I am looking for a strong and friendly team for these tasks 🧠
+- 📫 How to reach me: [777artsib@gmail.com](mailto:777artsib@gmail.com)
 
 https://github.com/orgs/doka-guide/followers  - продолжить ознакамливаться как то делает описание своей страницы
 -->
@@ -31,7 +38,8 @@ https://github.com/orgs/doka-guide/followers  - продолжить ознак�
 
 
 - 🌱 I’m currently learning React, JavaScript, TypeScript.
-- 📫 How to reach me: [777artsib@gmail.com](mailto:777artsib@gmail.com)
+- ✍🏻 Хочу писать чистый читабельный код
+
 
   <h2 align="center">🛠 Technologies and Tools 🛠</h2>
   <br>
@@ -102,6 +110,8 @@ https://github.com/orgs/doka-guide/followers  - продолжить ознак�
 </div>
 
 <br>
+
+<p>Всем успехов, мира и процветания!</p>
 
 
 
