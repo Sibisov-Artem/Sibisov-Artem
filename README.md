@@ -4,7 +4,6 @@
 <!--<h2 align="center">Hi there 👋, I'm Artem Sibisov </h2>-->
 <!--<h3 align="center">a frontend developer.</h3>-->
 
-
 <!--Live long and prosper
 Успехов, мира и процветания!
 
@@ -17,8 +16,6 @@ https://github.com/FullStackDev890306  - крутой дядька с Австр
 https://github.com/jackbereson#      - с Британии
 https://github.com/codemaster05330   - тоже гуд
 https://github.com/dmatsanganis - молодой паренек с хорошим оформлением
-
-
 
 Hey all 👋 I'm Artem, and I create all kinds of frontend magic.  - слева в описании у Полины, наподобие
 🌱 Ищу компанию, в которой можно создавать что-то полезное и важное для людей.
@@ -97,9 +94,9 @@ https://github.com/orgs/doka-guide/followers  - продолжить ознак�
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com - ранее брал здесь
-<!-- <a href="https://instagram.com/artem-sibisov" target="_blank">
+ <a href="https://instagram.com/artem-sibisov" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="artem-sibisov-instagram" />
-  </a>  -->
+  </a> 
 -->
 
 <div align="center">
@@ -109,10 +106,8 @@ https://github.com/orgs/doka-guide/followers  - продолжить ознак�
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/artem_sibisov)
 
 </div>
-
 <br>
-
-<p strong>Всем успехов, мира и процветания!</p>
+<p><strong>Всем успехов, мира и процветания! <strong></p>
 
 
 
