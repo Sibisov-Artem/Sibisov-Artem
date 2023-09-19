@@ -1,4 +1,4 @@
-<h1>🖖</h1>
+<h1 align="center" >🖖</h1>
 <h2 align="center">Всем привет 👋, я Артём Сибисов</h2>
 <h3 align="center">и я frontend-разработчик.</h3>
 
