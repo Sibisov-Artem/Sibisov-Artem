@@ -4,7 +4,7 @@
 
 <h1 align="center">Всем привет! 🖖 Меня зовут Артём</h2>
 
-<p align="center" width="90%"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=3600&pause=1000&color=1E75DD&center=true&width=360&lines=%D0%B8+%D1%8F+frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Я frontend-разработчик"/></p>
+<p align="center" width="90%"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3600&pause=1000&color=1E75DD&center=true&width=360&lines=%D0%B8+%D1%8F+frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Я frontend-разработчик"/></p>
 
 
 <!--<h2 align="center">Hi there 👋, I'm Artem Sibisov </h2>-->
