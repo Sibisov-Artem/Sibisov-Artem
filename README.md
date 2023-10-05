@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRkZjI1MTMxZWU0YTAxMzZlMTE4MWVhMTViMTFkYmEwMzM4NjRhOCZjdD1n/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Coder" width="300"/>
+</div>
+
 <h1 align="center">Всем привет! 🖖 Меня зовут Артём</h2>
 
 <p align="center" width="90%"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3600&pause=1000&color=1E75DD&width=435&lines=%D0%B8+%D1%8F+frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Я frontend-разработчик"/></p>
