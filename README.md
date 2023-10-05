@@ -1,4 +1,4 @@
-<h1 align="center">Всем привет 🖖, я Артём Сибисов</h2>
+<h1 align="center">Всем привет! 🖖 Меня зовут Артём</h2>
 <h2 align="center">и я frontend-разработчик.</h3>
 
 <!--<h2 align="center">Hi there 👋, I'm Artem Sibisov </h2>-->
@@ -40,11 +40,11 @@ https://github.com/orgs/doka-guide/followers  - продолжить ознак�
 - ✍🏻 Стараюсь писать чистый, читабельный код
 - 🌱 В настоящее время я углубляюсь в изучение React, JavaScript. В ближайших планах изучить TypeScript.
 - 💻 Меня интересует всё, что связано с веб-разработкой
-- 📈 Хочу развиваться, практиковаться, работать на результат
+- 📈 Хочу развиваться, практиковаться, работать на результат <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <!--- ✍🏻 Хочу писать чистый читабельный код-->
 <!-- - 🤝 Хочу работать в дружной команде -->
 
-
+  <br>
   <h2 align="center">🛠 Technologies and Tools 🛠</h2>
   <br>
   <!-- https://simpleicons.org/ -->
@@ -107,7 +107,7 @@ https://github.com/orgs/doka-guide/followers  - продолжить ознак�
 &nbsp;
 
 <br>
-
+<br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com - ранее брал здесь
@@ -124,9 +124,19 @@ https://github.com/orgs/doka-guide/followers  - продолжить ознак�
 
 </div>
 <br>
-<p align="center"><strong>Всем успехов, мира и процветания! <strong></p>
+<h2 align="center">🔥 My stats 🔥</h2>
+<p align="center"><img width="35%" src="https://www.codewars.com/users/Sibisov-Artem/badges/large"></p> 
 
+<div align="center">
+  <img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sibisov-Artem&show_icons=true&theme=tokyonight" alt="Github stats" />
+  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Sibisov-Artem&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Most used languages" />
+</div>
 
+<br>
+
+---
+
+### ***<p align="center">Всем успехов, мира и процветания!</p>***
 
 
 
