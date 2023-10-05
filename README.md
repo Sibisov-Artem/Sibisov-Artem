@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRkZjI1MTMxZWU0YTAxMzZlMTE4MWVhMTViMTFkYmEwMzM4NjRhOCZjdD1n/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Coder" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRkZjI1MTMxZWU0YTAxMzZlMTE4MWVhMTViMTFkYmEwMzM4NjRhOCZjdD1n/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="frontend-разработчик (Gif)" width="300"/>
 </div>
 
 <h1 align="center">Всем привет! 🖖 Меня зовут Артём</h2>
@@ -10,22 +10,10 @@
 <!--<h2 align="center">Hi there 👋, I'm Artem Sibisov </h2>-->
 <!--<h3 align="center">a frontend developer.</h3>-->
 
-<!-- ЗДЕСЬ КЛАССНОЕ ОФОРМЛЕНИЕ, классное сочетнаие приветсвиенного фона и цвета текста, взять на заметку https://github.com/TinaevNK -->
-
 <!--Live long and prosper
 Успехов, мира и процветания!
 
-https://github.com/Auqpiro  -скилы
-https://github.com/evgeniyworkbel  -скилы
-https://github.com/angemariya/angemariya/blob/main/README.md - профиль просмотр счетчик
-https://github.com/VladVlad1238 - профиль просмотр счетчик и немного описания
-
-https://github.com/FullStackDev890306  - крутой дядька с Австралии 
-https://github.com/jackbereson#      - с Британии
-https://github.com/codemaster05330   - тоже гуд
-https://github.com/dmatsanganis - молодой паренек с хорошим оформлением
-
-Hey all 👋 I'm Artem, and I create all kinds of frontend magic.  - слева в описании у Полины, наподобие
+Hey all 👋 I'm Artem, and I create all kinds of frontend magic.
 🌱 Ищу компанию, в которой можно создавать что-то полезное и важное для людей.
 ✍🏻 Хочу писать чистый читабельный код
 💻I'm interested in everything related to web-development.
@@ -37,8 +25,6 @@ Hey all 👋 I'm Artem, and I create all kinds of frontend magic.  - слева 
 - 📫 How to reach me: [777artsib@gmail.com](mailto:777artsib@gmail.com)
 - 🌱 I’m currently learning React, JavaScript, TypeScript.
 ✨ Активно развиваюсь в своей профессии. Ищу интересные проекты для стажировки и получения новых знаний.
-
-https://github.com/orgs/doka-guide/followers  - продолжить ознакамливаться как то делает описание своей страницы
 -->
 
 
@@ -158,8 +144,6 @@ https://github.com/orgs/doka-guide/followers  - продолжить ознак�
 ---
 
 ### ***<p align="center">Всем успехов, мира и процветания!</p>***
-
-
 
 <!--
 **Sibisov-Artem/Sibisov-Artem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
