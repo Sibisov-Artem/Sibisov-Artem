@@ -1,6 +1,6 @@
 <h1 align="center">Всем привет! 🖖 Меня зовут Артём</h2>
 
-<p align="center" width="90%"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&duration=3500&pause=1000&color=1E75DD&width=435&lines=%D0%B8+%D1%8F+frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Я frontend-разработчик"/></p>
+<p align="center" width="90%"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3600&pause=1000&color=1E75DD&width=435&lines=%D0%B8+%D1%8F+frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Я frontend-разработчик"/></p>
 
 
 <!--<h2 align="center">Hi there 👋, I'm Artem Sibisov </h2>-->
@@ -47,6 +47,11 @@ https://github.com/orgs/doka-guide/followers  - продолжить ознак�
 <!-- - 🤝 Хочу работать в дружной команде -->
 
   <br>
+  
+  ---
+  
+  <br>
+    
   <h2 align="center">🛠 Technologies and Tools 🛠</h2>
   <br>
   <!-- https://simpleicons.org/ -->
@@ -109,7 +114,11 @@ https://github.com/orgs/doka-guide/followers  - продолжить ознак�
 &nbsp;
 
 <br>
+  
+  ---
+  
 <br>
+ 
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com - ранее брал здесь
@@ -125,7 +134,13 @@ https://github.com/orgs/doka-guide/followers  - продолжить ознак�
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/artem_sibisov)
 
 </div>
+
 <br>
+  
+  ---
+  
+<br>
+  
 <h2 align="center">🔥 My stats 🔥</h2>
 <p align="center"><img width="35%" src="https://www.codewars.com/users/Sibisov-Artem/badges/large"></p> 
 
