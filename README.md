@@ -1,6 +1,5 @@
-<h1 align="center" >🖖</h1>
-<h2 align="center">Всем привет 👋, я Артём Сибисов</h2>
-<h3 align="center">и я frontend-разработчик.</h3>
+<h1 align="center">Всем привет 🖖, я Артём Сибисов</h2>
+<h2 align="center">и я frontend-разработчик.</h3>
 
 <!--<h2 align="center">Hi there 👋, I'm Artem Sibisov </h2>-->
 <!--<h3 align="center">a frontend developer.</h3>-->
@@ -38,9 +37,10 @@ https://github.com/orgs/doka-guide/followers  - продолжить ознак�
 
 
 - 🚀 Закончил обучение в Яндекс.Практикум по направлению Web-разработчик
-- 🌱 В настоящее время я углубляюсь в изучение React, JavaScript, TypeScript
+- ✍🏻 Стараюсь писать чистый, читабельный код
+- 🌱 В настоящее время я углубляюсь в изучение React, JavaScript. В ближайших планах изучить TypeScript.
 - 💻 Меня интересует всё, что связано с веб-разработкой
-- 📈 Хочу развиваться, практиковаться, работать на результат и писать чистый читабельный код
+- 📈 Хочу развиваться, практиковаться, работать на результат
 <!--- ✍🏻 Хочу писать чистый читабельный код-->
 <!-- - 🤝 Хочу работать в дружной команде -->
 
@@ -50,8 +50,8 @@ https://github.com/orgs/doka-guide/followers  - продолжить ознак�
   <!-- https://simpleicons.org/ -->
  <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
-&nbsp;
+<!--<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
+&nbsp;-->
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
