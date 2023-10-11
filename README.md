@@ -32,15 +32,16 @@ Hey all 👋 I'm Artem, and I create all kinds of frontend magic.
 - ✍🏻 Стараюсь писать чистый, читабельный код
 - 🌱 В настоящее время я углубляюсь в изучение React, JavaScript. В ближайших планах изучить TypeScript.
 - 💻 Меня интересует всё, что связано с веб-разработкой
+- 🤩 Нравится решать в свободное время задачки на Codewars
 - 📈 Хочу развиваться, практиковаться, работать на результат <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26">
 <!--- ✍🏻 Хочу писать чистый читабельный код-->
 <!-- - 🤝 Хочу работать в дружной команде -->
 
-  <br>
+
   
   ---
   
-  <br>
+
     
   <h2 align="center">🛠 Technologies and Tools 🛠</h2>
   <br>
@@ -103,11 +104,11 @@ Hey all 👋 I'm Artem, and I create all kinds of frontend magic.
 <span><img src="https://img.shields.io/badge/Postman-282C34?style=flat&logo=postman" alt="Postman logo" title="Postman" height="25" /></span>
 &nbsp;
 
-<br>
+
   
   ---
   
-<br>
+
  
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
@@ -125,11 +126,11 @@ Hey all 👋 I'm Artem, and I create all kinds of frontend magic.
 
 </div>
 
-<br>
+
   
   ---
   
-<br>
+
   
 <h2 align="center">🔥 My stats 🔥</h2>
 <p align="center"><img width="35%" src="https://www.codewars.com/users/Sibisov-Artem/badges/large"></p> 
@@ -138,8 +139,6 @@ Hey all 👋 I'm Artem, and I create all kinds of frontend magic.
   <img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sibisov-Artem&show_icons=true&theme=tokyonight" alt="Github stats" />
   <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Sibisov-Artem&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Most used languages" />
 </div>
-
-<br>
 
 ---
 
@@ -159,4 +158,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![](https://komarev.com/ghpvc/?username=Sibisov-Artem)
