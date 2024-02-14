@@ -29,8 +29,9 @@ Hey all 👋 I'm Artem, and I create all kinds of frontend magic.
 
 
 - 🚀 Закончил обучение в Яндекс.Практикум по направлению Web-разработчик
+- 🛒 Принимал участие в разработке интернет-магазина Maxboom на TS+React+ReduxToolkit+FSD
 - ✍🏻 Стараюсь писать чистый, читабельный код
-- 🌱 В настоящее время я углубляюсь в изучение React, JavaScript. В ближайших планах изучить TypeScript.
+- 🌱 В свободное время углубляюсь в изучение React, JavaScript, TypeScript
 - 💻 Меня интересует всё, что связано с веб-разработкой
 - 🤩 Нравится решать в свободное время задачки на Codewars
 - 📈 Хочу развиваться, практиковаться, работать на результат <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26">
@@ -48,8 +49,8 @@ Hey all 👋 I'm Artem, and I create all kinds of frontend magic.
   <!-- https://simpleicons.org/ -->
  <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
-<!--<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
-&nbsp;-->
+<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
