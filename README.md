@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRkZjI1MTMxZWU0YTAxMzZlMTE4MWVhMTViMTFkYmEwMzM4NjRhOCZjdD1n/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="frontend-разработчик (Gif)" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRkZjI1MTMxZWU0YTAxMzZlMTE4MWVhMTViMTFkYmEwMzM4NjRhOCZjdD1n/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="веб-разработчик (Gif)" width="300"/>
 </div>
 
 <h1 align="center">Всем привет! 🖖 Меня зовут Артём</h2>
 
-<p align="center" width="90%"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3600&pause=1000&color=1E75DD&center=true&width=360&lines=%D0%B8+%D1%8F+%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Я frontend-разработчик"/></p>
+<p align="center" width="90%"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3600&pause=1000&color=1E75DD&center=true&width=360&lines=%D0%B8+%D1%8F+%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Я веб-разработчик"/></p>
 
 
 <!--<h2 align="center">Hi there 👋, I'm Artem Sibisov </h2>-->
@@ -28,7 +28,7 @@ Hey all 👋 I'm Artem, and I create all kinds of frontend magic.
 -->
 
 
-- 🚀 Закончил обучение в Яндекс.Практикум по направлению Web-разработчик
+- 🚀 Закончил обучение в Яндекс.Практикум по направлению веб-разработчик
 - 🛒 Принимал участие в разработке [интернет-магазина Maxboom](https://github.com/Studio-Yandex-Practicum/maxboom_frontend) на TS+React+ReduxToolkit+FSD
 - ✍🏻 Стараюсь писать чистый, читабельный код
 - 🌱 В свободное время углубляюсь в изучение React, JavaScript, TypeScript
