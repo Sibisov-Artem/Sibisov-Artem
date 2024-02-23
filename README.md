@@ -133,7 +133,7 @@ Hey all 👋 I'm Artem, and I create all kinds of frontend magic.
   
 
   
-<h2 align="center">🔥 My stats 🔥</h2>
+<h2 align="center">🔥 Моя статистика 🔥</h2>
 <p align="center"><img width="35%" src="https://www.codewars.com/users/Sibisov-Artem/badges/large"></p> 
 
 <div align="center">
