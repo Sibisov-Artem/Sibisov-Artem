@@ -44,7 +44,7 @@ Hey all 👋 I'm Artem, and I create all kinds of frontend magic.
   
 
     
-  <h2 align="center">🛠 Technologies and Tools 🛠</h2>
+  <h2 align="center">🛠 Технологии и инструменты 🛠</h2>
   <br>
   <!-- https://simpleicons.org/ -->
  <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -111,7 +111,7 @@ Hey all 👋 I'm Artem, and I create all kinds of frontend magic.
   
 
  
-<h2 align="center">👽 Where to find me 👽</h2>
+<h2 align="center">👽 Cвязаться со мной 👽</h2>
 <br>
 <!-- https://icons8.com - ранее брал здесь
  <a href="https://instagram.com/artem-sibisov" target="_blank">
